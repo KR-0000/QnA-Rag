@@ -1,0 +1,60 @@
+Source: r/rutgers
+Topic: CS 344 Design and Analysis of Computer Algorithms - difficulty, professors, and advice
+
+---
+
+General description of CS 344:
+
+CS 344 (Design and Analysis of Computer Algorithms) is a required upper-level CS course. It is not coding-based. The workload consists of homework assignments, two midterms, and a final exam. It feels like a continuation of Data Structures but more mathematically intensive, covering algorithm design, proofs, and runtime analysis in greater depth.
+
+There are no programming projects. The work is proof-based and problem-solving oriented, similar in style to Discrete Math rather than programming courses.
+
+The difficulty of CS 344 depends heavily on the professor. Some sections are manageable; others are significantly harder. Students strongly recommend researching the professor before registering.
+
+---
+
+On workload and scheduling:
+
+CS 344 does not have a heavy project workload compared to classes like CS 213 or CS 214. The time commitment is more like a math course: weekly homework and studying for exams.
+
+Taking CS 344 alongside CS 213 (Software Methodology) is considered doable but demanding. CS 213 has a lot of project work and CS 344 requires substantial study time.
+
+Students are generally advised not to delay taking CS 344. It is a required course and getting it out of the way earlier is better, especially since it reinforces algorithmic thinking useful for technical interviews.
+
+---
+
+On taking CS 344 as a sophomore:
+
+Taking algorithms as a sophomore is uncommon but possible. It will not dramatically help with internship-level technical interviews, which typically focus on Data Structures concepts (arrays, strings, hash tables, basic dynamic programming) rather than graduate-level algorithm theory. However, getting it done early removes scheduling pressure later.
+
+---
+
+Professors mentioned for CS 344:
+
+Sepehr Assadi: Highly recommended. Students describe learning a lot from him and that he makes the material accessible.
+
+Aaron Bernstein: Well-regarded. Generous curves and assignment policies. Usually 3 out of 4 homework problems are easy to medium difficulty, with one hard problem. Exams are similar in style to homework. Two non-cumulative take-home exams. Grading scale has been lenient (an 86 or 89 was an A in some semesters; a 47-49 was a C).
+
+Wesley Cowan: Mentioned as a good choice for algorithms.
+
+Kalantari: Multiple students describe this professor as someone to avoid for CS 344. Described as making the course feel useless.
+
+Levin: Students in one section reported struggling significantly, with homework taking days per problem set.
+
+---
+
+On exam difficulty and study strategy:
+
+Exams in CS 344 can feel tricky because knowing the algorithms is not enough. You need to be able to apply them in novel ways and construct proofs. Cramming does not work well for this course. Students who keep up with homework and understand each week's material as it is covered do significantly better than those who try to study everything at the end.
+
+Go to every class. The course is cumulative. Every exam builds on previous material.
+
+Do all homework problems thoroughly and understand them deeply. Exam questions are often similar to homework problems.
+
+Understanding the material from Discrete Math (proofs, logic, combinatorics) beforehand makes CS 344 considerably easier.
+
+---
+
+On the relationship between CS 344 and technical interviews:
+
+CS 344 reinforces algorithmic thinking and helps students categorize problems quickly, which is valuable during timed interviews. However, internship and entry-level job interviews generally focus on basic data structures questions rather than algorithms-course-level theory. CS 344 is more useful for graduate school, advanced research, and developing deep problem-solving instincts than for passing typical coding screens.

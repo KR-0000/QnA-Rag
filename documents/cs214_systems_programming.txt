@@ -1,0 +1,75 @@
+Source: r/rutgers
+Topic: CS 214 Systems Programming - difficulty, professors, and preparation advice
+
+---
+
+General description of CS 214:
+
+CS 214 (Systems Programming) is a C-programming-focused course that covers POSIX, Unix system internals, processes, file systems, networking, threads, and mutexes. The course is project-based with 3-4 large projects per semester. No exams are the primary challenge; the projects are.
+
+CS 214 is considered harder than CS 211 (Computer Architecture) by most students, though a few say it felt comparable or easier. The primary reason it is hard is the size and complexity of the projects combined with often vague writeups and disorganized course administration.
+
+---
+
+Difficulty and what makes it hard:
+
+C is not a rapid-production language. Projects that might take a few hours in Java take much longer in C, especially when debugging memory issues.
+
+Project writeups are frequently cited as unclear, dense, and missing critical information. Requirements have changed mid-project in some semesters. TAs and professors have not always been coordinated on grading expectations.
+
+Starting projects late is catastrophic. Students who leave a project to the last 3 days describe it as unrecoverable. Starting on day one is consistently the advice given.
+
+Memory management (malloc, free, valgrind) adds significant debugging overhead. Students who are not comfortable with this will struggle.
+
+A competent partner dramatically changes the experience. Students with strong partners describe the class as manageable. Students with weak or absent partners describe significantly more pain.
+
+---
+
+Professors for CS 214:
+
+Francisco (Franny):
+The most frequently taught section. Lectures described as reasonably clear. Course administration described as extremely disorganized: late grading, miscommunication between TAs and professor, incomplete project writeups. One semester a formatting requirement worth 10% of a project grade was communicated only via a TA email shortly before the deadline and was not in the writeup. The professor was reportedly unaware TAs were enforcing it.
+
+Menendez:
+Similar experience to Francisco in terms of disorganization and vague project specs. Office hours are necessary and somewhat helpful.
+
+---
+
+On C programming preparation:
+
+The single most important thing you can do before taking CS 214 is get comfortable with C. Students who are strong in C describe the class as manageable to enjoyable. Students who are weak in C describe it as one of the hardest classes they have taken.
+
+Specific skills to develop before the course:
+- malloc, free, and understanding memory leaks
+- Valgrind for memory debugging
+- Structs and linked lists in C
+- Reading Linux man pages and documentation
+- GDB debugger
+- Makefiles
+- File descriptors, open(), read(), write()
+- Basic shell commands
+
+---
+
+Topics covered across projects (based on student descriptions):
+
+Project 1: String tokenizer or malloc implementation
+Project 2: File compression using trees (min heap, binary tree, AVL tree in C)
+Project 3: Shell implementation (requires exec, fork, process management)
+Project 4: Networking (client/server, sockets, threads, mutexes, signals)
+
+---
+
+On the value of taking CS 214:
+
+Despite the frustrations, CS 214 is frequently cited as one of the courses that most built students' confidence and skills as programmers. It forces real problem-solving in a low-level language without guardrails. Students who go into low-level development, systems work, or operating systems find it essential. Even students going into typical software engineering jobs report that the discipline and problem-solving experience transferred well.
+
+One student described getting a 27% on a project and a 64% on the final but still earning an A overall due to a generous curve and extra credit. Curves in CS 214 with Francisco are described as significant.
+
+---
+
+Relationship to other courses:
+
+CS 214 is a natural continuation of CS 211 (Computer Architecture). Taking CS 211 first is strongly recommended. Students who have just finished CS 211 are at a significant advantage over students who have not.
+
+CS 416 (Operating Systems) is the natural next course after CS 214. Some students describe CS 416 as needlessly hard with uninteresting content, while others find the combination of 214 and 416 to be the most useful sequence for low-level career paths.

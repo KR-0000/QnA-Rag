@@ -1,0 +1,69 @@
+Source: r/rutgers
+Topic: CS elective recommendations - easiest options and most useful options for Rutgers CS majors
+
+---
+
+EASIEST CS ELECTIVES (by student consensus):
+
+CS 336 (Principles of Information and Data Management / Databases):
+Consistently described as one of the easier electives. Also considered highly useful for careers involving data. Has a significant group project (in some semesters an open-ended project worth 50% of the grade) where students typically build web apps. SQL knowledge is valuable for data science, data analytics, and many software engineering roles. Miranda Garcia teaches a well-regarded version of this course.
+
+CS 210 (Data Management for Data Science):
+Described as relatively straightforward, especially for students who know Python. Uses Python and covers data management concepts at an introductory level.
+
+CS 439 (Intro to Machine Learning):
+Described as relatively straightforward alongside CS 210 for students interested in ML or data science.
+
+Philosophy: Minds, Machines and Persons:
+Easy, fun, and light. Counts as a non-CS elective toward the BS. You can only count 2 non-CS electives total toward the degree. Worth taking if you want a break semester.
+
+Math 354 (Linear Optimization):
+Can count toward the degree. Conceptually not hard. However, described as extremely tedious: the entire course involves iterating through matrices by hand according to specific rules. Some students describe it as the most mind-numbing course they have taken. Not recommended unless you specifically need a math elective or find arithmetic-heavy work satisfying.
+
+---
+
+MOST USEFUL CS ELECTIVES (by student consensus for software engineering careers):
+
+CS 213 (Software Methodology):
+Deep Java OOP, design patterns, Git, UML, partner programming. Directly applicable to internship and job interviews. Students who take it later in their career consistently say they wish they had taken it earlier.
+
+CS 336 (Principles of Information and Data Management):
+SQL and relational databases. Directly applicable to most software engineering and data roles. Good projects to talk about in interviews.
+
+CS 214 (Systems Programming):
+Essential for low-level, systems, or OS-related careers. Builds C programming skills and systems thinking.
+
+CS 461 (Intro to Machine Learning):
+Recommended for students interested in ML. Goes further than CS 440, covering transformers and text models. Professor Sharon Levy described as good: quizzes are manageable once you understand the format, but assumes Python knowledge.
+
+CS 440 (Intro to Artificial Intelligence):
+Covers how AI agents make decisions using algorithms to traverse data structures. More theoretical than CS 461. Covers neural networks but stops before more advanced topics.
+
+CS 462 (Intro to Deep Learning):
+Covers the advanced topics from CS 461 and beyond. Best taken after CS 461.
+
+---
+
+On electives to avoid or approach carefully:
+
+Math 354 (Linear Optimization): Tedious. Many students regret taking it. Only take if you genuinely enjoy calculation-heavy math or need the credit.
+
+CS 314 (Principles of Programming Languages): Interesting content but described as confusing. When taught by Kremer (infrequently, roughly every 4-5 years) it is more manageable. Other instructors make it harder. One student dropped it halfway through.
+
+---
+
+Note on the CS 336 project:
+
+CS 336 with Imielinski has historically had an open-ended project worth 50% of the grade where most students build web applications. Web apps are easy to show off to interviewers compared to command-line Java programs. A well-executed 336 project can be a strong portfolio piece.
+
+---
+
+On research for CS credit:
+
+Taking research for CS elective credit is possible. The workload varies by lab. You do standard homework and assessments for the regular courses but research credit substitutes for elective requirements. Useful for students interested in graduate school or who want a flexible credit option.
+
+---
+
+Is Rutgers CS more theory or practice?
+
+Rutgers CS is more theory-leaning than many programs. It is a Computer Science degree, not a Software Engineering degree. The program builds foundational CS knowledge and algorithmic thinking rather than directly training you for a software job. Students who want a software engineering career need to supplement the degree with personal projects, internships, and self-directed learning in practical tools.

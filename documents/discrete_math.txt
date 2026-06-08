@@ -1,0 +1,63 @@
+Source: r/rutgers
+Topic: Discrete Mathematics I (198:205) and Discrete Mathematics II (198:206) - professors and advice
+
+---
+
+DISCRETE MATH I (CS 01:198:205)
+
+General notes:
+
+Discrete Math I is considered a manageable course if you stay on top of the material. It can be self-taught: the YouTube channel by Kimberly Brehm is a near-perfect match for the Rutgers Discrete Math I curriculum and uses the same textbook. Students who struggle with the lectures have used this resource to learn the material independently.
+
+Difficulty rating from students: approximately 3 out of 10, or 4 if proofs are not your strong suit.
+
+---
+
+Professors for Discrete Math I:
+
+Surya Teja Gavva:
+Described by multiple students as excellent. Cares deeply about students, gives generous curves, offers bonus points. Multiple students call him "the best" or recommend him highly. His midterms have been described as difficult, but he curves generously. Having prior exposure to the material helps in his class.
+
+Jingjin Yu:
+Described as having a heavy accent with worse reviews than Gavva. Less information available.
+
+John Blackmore:
+Taught an asynchronous summer section. Described as open book with a manageable workload. 
+
+Garcia:
+Multiple students described Garcia as a poor professor for Discrete Math I. Described as not teaching effectively, making problem sets very hard, and only getting worse over time. One student dropped the class with a W.
+
+---
+
+DISCRETE MATH II (CS 01:198:206)
+
+General notes:
+
+Discrete Math II is not typically offered at community colleges in New Jersey. Students cannot generally transfer credit from a community college to satisfy this requirement. NJIT may offer an equivalent at the 300 level.
+
+Difficulty rating from students: approximately 4 out of 10.
+
+Discrete Math II covers probability theory and combinatorics. While the content is not always directly used in software engineering jobs, students consistently report that it trains useful problem-solving thinking that helps in later courses and interviews.
+
+---
+
+Professors for Discrete Math II:
+
+Hamidi:
+Easy exams described as straightforward textbook problems covered in class. Has a policy where if your average is above a certain threshold before the final, you do not need to take the final. No homework in some semesters. Mandatory attendance and participation points required. Described as not kind or warm but not impossible to deal with if you show up and demonstrate effort. The course material itself is quite easy under Hamidi.
+
+Charles (Wes) Cowan:
+Highly praised. Described as an amazing lecturer who makes class engaging and fun. Cares about students. Gives a generous curve. Homework assignments are described as tedious and difficult but rewarding and helpful for learning. Midterms are harder than Hamidi's but curved. No midterm and no final in some semesters if your average is high enough (varies by semester). Multiple students describe him as their favorite CS professor. Teaches both Discrete II and AI-related courses.
+
+Michmizos:
+Praised as kind and thorough. Makes sure students understand the material. Quizzes described as not difficult. No mandatory attendance or participation points. Exams are harder than Hamidi's but the teaching quality is considered superior.
+
+---
+
+On choosing between professors for Discrete II:
+
+If you prioritize easy exams and want to potentially skip the final: Hamidi.
+If you prioritize quality of learning and genuine understanding of material: Cowan or Michmizos.
+If you want a middle ground with good teaching and no mandatory attendance: Michmizos.
+
+Cowan is described as the best option for students who want to truly learn the material, though his homework is harder. Hamidi is the path-of-least-resistance option.

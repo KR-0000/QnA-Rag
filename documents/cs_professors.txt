@@ -1,0 +1,68 @@
+Source: r/rutgers
+Topic: Best and worst CS professors at Rutgers-NB - aggregated student opinions
+
+---
+
+HIGHLY RECOMMENDED PROFESSORS:
+
+Charles (Wes) Cowan:
+Teaches Discrete II and AI-related courses. Described by many students as their favorite CS professor at Rutgers. Excellent lecturer who makes the material engaging and fun. Cares deeply about students. Generous curves. Homework is tedious and difficult but the learning is rewarding. Midterms are harder than some other professors but curved fairly. Known for publicly calling out incorrect Chegg answers during periods when academic dishonesty was high. Multiple students describe him as "the best" or comparable to a top-tier professor.
+
+Aaron Bernstein:
+Teaches CS 344 (Algorithms). Very good lecturer who is thoughtful and clear. Generous curves and assignment policies. Exams are similar in style to homework. Typically 3 out of 4 problems are easy to medium, with one hard problem and sometimes extra credit. Take-home exams are non-cumulative. Known for a lenient grading scale (in some semesters an 86 or 89 was an A; a 47-49 was still a C). Records lectures. Highly recommended for algorithms.
+
+Sepehr Assadi:
+Teaches CS 344 (Algorithms). Students report learning a great deal from him. Described as making material accessible and fostering genuine understanding. Recommended highly in community posts about algorithm course choices.
+
+Michmizos:
+Teaches Discrete II and possibly other courses. Described as kind, thorough, and genuinely invested in student understanding. No mandatory attendance or participation requirements. Quizzes not difficult. Exam difficulty moderate. Students consistently praise him.
+
+Santosh Nagarakatte:
+Undergraduate Director of Computer Science. Described as smart and helpful. Also described as harder than some other professors. Mentioned as one of the better professors in the department.
+
+Lily Chang:
+Teaches CS 213 (Software Methodology). Described as easier and more manageable than other CS 213 professors. Projects are less difficult and midterms are more straightforward. Good option if GPA management is a priority.
+
+Ulrich Kremer:
+Teaches CS 314 (Principles of Programming Languages) roughly once every 4-5 years. When he teaches it the course is described as having nice policies and being more approachable. Not frequently available.
+
+Huang:
+Mentioned positively in multiple threads. Limited detail available.
+
+Zhang:
+Mentioned positively for CS 344 (Algorithms). Students describe the class as not very difficult under Zhang.
+
+---
+
+PROFESSORS WITH MIXED OR NEGATIVE REPUTATIONS:
+
+Francisco (Franny):
+Teaches CS 214 (Systems Programming). Lectures described as reasonable but course administration is widely described as extremely disorganized. Late grading, unclear project writeups, poor coordination between professor and TAs. Despite the disorganization, generous curves exist. Multiple students say Francisco is not a good professor but the curve often saves people. One of the more frequently complained-about professors in the department.
+
+Menendez (Menny):
+Teaches CS 214 (Systems Programming) sections. Similar complaints to Francisco: disorganized course, vague project requirements. Some students describe the teaching as adequate but the course management as frustrating.
+
+Sesh Venugopal:
+Teaches CS 112 (Data Structures) and CS 213 (Software Methodology). Historically had a very strong reputation, especially for Data Structures, where older alumni describe him as one of the best professors they had. Recent student reviews are significantly more negative. Current students report that he increasingly relies on AI-generated lecture content and directs students to use AI rather than teaching directly. Exams described as brutal. Graders described as strict. Limited to no meaningful curve in recent semesters. Older reviews (5+ years ago) are much more positive than current ones.
+
+Kalantari:
+Teaches CS 344 (Algorithms). Multiple students strongly advise against taking algorithms with Kalantari. Described as making the course feel useless with excessive review of algorithm definitions without developing useful problem-solving skills.
+
+Garcia:
+Multiple students describe Garcia negatively for Discrete Math I. Described as not effectively teaching material, creating very difficult problem sets without adequate instruction, and only getting worse over time. One student dropped the class with a W.
+
+Guna:
+Teaches upper-level courses. Described as technically competent and a good lecturer. However, known for strict mandatory attendance policies and for not responding to emails (reportedly reads emails but does not respond). Mixed reputation.
+
+Miranda (Miranda Garcia):
+Teaches CS 336 (Databases). Described as explaining things clearly and teaching one of the easier courses. However, known for not responding to emails despite encouraging students to email him, very late grading, and grading with frequent errors. Despite these issues, multiple students mention him positively for the 336 course content itself.
+
+---
+
+General advice on choosing professors:
+
+Check SIRS (Student Instructional Rating Survey) available through Rutgers along with Rate My Professors for any professor you are considering. Reviews on the subreddit and RMP together give the most complete picture.
+
+Professor choice can change a course from a 5/10 difficulty to an 8/10 or vice versa, especially for CS 344, Discrete Math, and CS 213.
+
+For any course without a clear "best" professor, look at RMP specifically for comments about exam difficulty, grading fairness, and how well they explain concepts rather than just overall rating.

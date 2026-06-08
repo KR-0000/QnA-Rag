@@ -1,0 +1,54 @@
+Source: r/rutgers
+Topic: Which Rutgers CS courses best prepare you for jobs and internships - advice from students and graduates
+
+---
+
+Top courses for landing a software engineering job (from a Rutgers CS graduate who landed a position at a large tech company):
+
+1. CS 112 (Data Structures):
+Nearly every technical interview involves at least one data structure. Data structures appear in every subsequent CS course as well. Getting genuinely good at runtime analysis (Big O) is directly tested in interviews. Understanding graphs makes trees easier, and trees are a very common interview topic. Recursion is described as what separates good programmers from great ones. Do not cheat or copy your way through this class. There are many resources at Rutgers: the CAVE tutoring center, office hours, and course-provided practice material.
+
+2. CS 213 (Software Methodology):
+The practical Java skills in this course come up constantly in interviews: interface vs abstract class, design patterns, polymorphism. Every week in interviews students encounter concepts covered the following week in the course. Git skills developed here are used continuously in professional settings. Partner programming builds skills for team-based work environments.
+
+3. CS 344 (Algorithms):
+Described as Data Structures on steroids. Forces deeper understanding of recursion, runtime analysis, and algorithm design. Develops the ability to quickly categorize problems before attempting to solve them, which is valuable during timed technical interviews. Material from this course is more relevant to harder interview rounds and graduate school than to initial internship screens.
+
+Bonus: CS 206 (Discrete Math II):
+Probability theory rarely appears directly in code but the problem-solving thinking it trains is described as genuinely useful. Makes algorithmic thinking more efficient.
+
+---
+
+What these courses have in common:
+
+They are fast-paced, with many assignments in a short time. Repeated practice is what ingrains the material. Classes that have one large semester-long project teach less than classes with many shorter projects because repetition is how programming skills are internalized.
+
+---
+
+Useful electives for career preparation (from experienced students and graduates):
+
+CS 336 (Databases): SQL is used in a large majority of software engineering roles. The open-ended project produces a web app that is easy to show in interviews. Highly recommended.
+
+CS 214 (Systems Programming): Essential for lower-level, systems, or OS career paths. Also builds general confidence and problem-solving skills.
+
+CS 461 (Machine Learning) and CS 440 (Artificial Intelligence): Useful for students interested in ML/AI careers. 461 goes further than 440 and is the recommended choice if you only take one.
+
+Internet Technology: Teaches how the internet works at lower levels than most developers ever use, but also covers C and sockets which are directly useful for systems-adjacent work.
+
+Computer Security: Teaches security principles that apply in any software development role. No enterprise wants insecure code.
+
+---
+
+On internships:
+
+Having internships matters more than course selection for landing a first job. Internships, personal projects, or both are what get your foot in the door. CS courses provide the foundational knowledge to perform well in interviews and on the job, but the degree alone is not sufficient. Students should pursue internships starting as early as sophomore year.
+
+After your first job or two, interview questions shift from theoretical (algorithms, data structures) to practical (system design, domain-specific problems). The theoretical foundation from courses matters most early in your career.
+
+---
+
+On the Rutgers CS reputation:
+
+The program is more theory-leaning than applied. It builds foundational CS knowledge rather than directly training software engineers. Students who want to work in software engineering need to supplement the degree with personal projects, internships, and self-study in practical tools like cloud platforms, web frameworks, and modern development practices.
+
+Despite being theory-heavy, the required courses (especially CS 112, CS 213, CS 344) provide the algorithmic foundation that large tech companies test in their interview processes.

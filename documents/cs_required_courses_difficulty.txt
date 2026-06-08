@@ -1,0 +1,61 @@
+Source: r/rutgers
+Topic: Rutgers CS required courses ranked by difficulty - student perspectives
+
+---
+
+Required CS courses for the BS in Computer Science at Rutgers-NB:
+01:198:111 (Introduction to Computer Science)
+01:198:112 (Data Structures)
+01:198:205 (Discrete Structures I)
+01:198:206 (Discrete Structures II)
+01:198:211 (Computer Architecture)
+01:198:344 (Design and Analysis of Computer Algorithms)
+
+Required Math:
+01:640:151 (Calculus I)
+01:640:152 (Calculus II)
+01:640:250 (Linear Algebra)
+
+---
+
+Student difficulty ratings (scale of 1-10, multiple responses aggregated):
+
+CS 111 (Intro to CS): 2-4. Easy if you have prior Java experience. Harder if you have never coded. Do not slack off even if you know Java already, since assignments still require effort.
+
+CS 112 (Data Structures): 7-8. Concepts are not always intrinsically hard but the exam structure is demanding and the minimum score requirement can trip up students who coast on assignments. One of the most common courses where students decide CS is not for them.
+
+CS 205 (Discrete Math I): 3-4. Depends heavily on whether you are comfortable with proofs. A math course but a different kind of math. Difficulty varies significantly by professor.
+
+CS 206 (Discrete Math II): 4. Primarily probability. Depends heavily on professor. Cowan makes it harder but more educational. Hamidi makes it easier.
+
+CS 211 (Computer Architecture): 6-7. Hard because of the low-level nature and memory management in C. Debugging takes much longer than in Java. Important to pay attention to memory management lectures.
+
+CS 344 (Algorithms): 5-8 depending on professor. With a good professor it is a 5. With Kalantari it is described as an 8 and largely unrewarding. Pure exam and homework course, no projects.
+
+Math 151 (Calculus I): 7. Doable but requires consistent effort. Stay on top of each topic.
+
+Math 152 (Calculus II): 8. More abstract than Calculus I, multiple solution approaches for many problems.
+
+Math 250 (Linear Algebra): 3-6. Tedious but not conceptually as hard as calculus. Mostly calculation-heavy.
+
+---
+
+What not to take together:
+
+CS 112 + CS 205 in the same semester is manageable but requires consistent effort in both.
+
+CS 213 + CS 344 is doable but demanding. CS 213 has heavy project workload and CS 344 requires significant study time.
+
+CS 214 + any other project-heavy class is risky. CS 214 projects are time-consuming enough that adding another project-heavy course creates real scheduling pressure.
+
+CS 344 + CS 416 (Operating Systems) is considered very heavy. Students generally recommend not taking these together.
+
+---
+
+Key observations from students who have completed the major:
+
+The required courses that most directly help with landing software engineering jobs are CS 112, CS 213, and CS 344, in roughly that order. CS 112 builds the data structures foundation tested in nearly every interview. CS 213 builds practical programming skills and professional habits. CS 344 develops algorithmic thinking useful for harder interview problems.
+
+CS 211 and CS 214 are more valuable for students going into systems, embedded, or low-level development. They are less directly tested in typical software engineering interviews but build foundational understanding.
+
+The pace of Rutgers CS courses is fast. Staying current with each week's material is more effective than cramming before exams, especially in CS 344 and CS 206.

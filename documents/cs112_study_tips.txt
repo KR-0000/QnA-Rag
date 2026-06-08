@@ -1,0 +1,48 @@
+Source: r/rutgers
+Topic: CS 112 study strategies, tips for success, and resources
+
+---
+
+How to get an A in CS 112:
+
+Start projects early. Most students find project descriptions difficult to understand at first. Read the description on the first day it is released, let it process overnight, then come back to it the next day. Your understanding will improve significantly. Work on something every day and let your brain process problems in the background.
+
+Do the problem sets seriously. Problem sets are the single best exam preparation. Exam questions are frequently based directly on problem set questions or variations of them. Students who treat problem sets as optional or skim them tend to struggle on exams.
+
+Use practice exams. Past exams are available online (GitHub: USMC1941/CS112-Rutgers/Practice Exams). Go through them repeatedly.
+
+Read the textbook early, especially for Big O and linked lists. These two topics appear throughout the entire course. Students who fall behind on them struggle with everything that comes after. Reading the first few chapters over a break before the semester starts is a common recommendation.
+
+Attend every lecture. The professor's lecture content maps closely to exam questions. Attendance matters more than textbook reading for exam performance.
+
+Go to recitation when you are confused. Recitation attendance is not mandatory but it is useful when you do not understand a specific topic.
+
+Use office hours and tutoring. The CAVE tutoring center offers walk-in help. TAs hold office hours and are generally helpful.
+
+---
+
+On specific topics to prioritize:
+
+Big O notation and runtime analysis is described as a huge part of CS 112. Understanding how to derive Big O for different algorithms and data structures is essential for exams.
+
+Linked lists are the most commonly cited early stumbling block. Getting comfortable with them early prevents problems later in the semester.
+
+Understand stacks, queues, trees, and graphs well enough to implement them from scratch under time pressure.
+
+Recursion is a major differentiator between students who do well and students who struggle. It takes time and practice to internalize.
+
+---
+
+On early submission:
+
+CS 112 offers early submission opportunities for assignments where you complete the first method or two of a programming assignment ahead of the main deadline. These are essentially free points and reduce stress significantly. Take advantage of every early submission opportunity available.
+
+---
+
+Resources mentioned by students:
+
+- Professor's own YouTube channel with recorded lectures on data structures topics
+- GitHub repository with CS 112 practice exams (USMC1941/CS112-Rutgers)
+- The CS 112 official course website lists all topics and has practice material
+- LeetCode DSA crash course (recommended for getting interview-ready and data structures concepts simultaneously)
+- ChatGPT or other resources to fill in gaps when lecture videos are unclear

@@ -1,0 +1,59 @@
+Source: r/rutgers
+Topic: CS 213 Software Methodology - professors, difficulty, and course overview
+
+---
+
+General description of CS 213:
+
+CS 213 (Software Methodology) is a project-heavy Java course that covers professional software development practices: design patterns, inheritance, interfaces, abstract classes, polymorphism, Git, UML, and partner programming. There are typically 4-6 projects throughout the semester, done in pairs, plus exams.
+
+The course is widely considered one of the most useful CS courses at Rutgers for students who want careers in software engineering. Skills learned directly apply to technical interviews and professional development work.
+
+Students are advised to take CS 213 earlier rather than later. Many students take it junior or senior year but then discover the material comes up constantly in internship interviews.
+
+---
+
+Professors for CS 213:
+
+Sesh Venugopal:
+Mixed and evolving reputation. Older reviews from 5+ years ago describe him as a great lecturer who explains things clearly and teaches professional software development practices well. His exams have historically been on the harder side even in older reviews.
+
+More recent reviews (within the last 2 years) are significantly more negative. Students report that his teaching has deteriorated as he increasingly relies on AI tools. Lecture notes described as screenshots of AI-generated content. When students ask questions he reportedly directs them to ask AI. Exams described as brutal with strict grading and no meaningful curve. Students who studied extensively still received low scores (45/85, 31/85, 54/85). Project instructions described as vague and overly specific in ways that cause confusion.
+
+Sesh does not curve in recent semesters according to current students, or curves minimally. Regrade requests have been described as unhelpful.
+
+Projects under Sesh are described as long and tedious but doable if started early. Partner choice is critical: a weak or absent partner can leave one person doing all the work.
+
+Lily Chang:
+Consistently described as an easier option. Projects are described as much more manageable. Midterms are also easier. Less useful for learning deep software engineering principles but less stressful overall.
+
+---
+
+On choosing between Sesh and Chang:
+
+Chang is the clear choice if your priority is GPA or reduced stress.
+
+Sesh was historically the choice if you wanted to genuinely learn. However, recent student reports suggest his teaching quality has significantly declined, making the trade-off less clear. If you must take Sesh (e.g., due to schedule conflicts with CS 336), go in prepared for difficult exams and vague project specs.
+
+---
+
+Scheduling note:
+
+Some students need to take Sesh's section of CS 213 because it is the only section that fits alongside CS 336 (Principles of Information and Data Management). If you need both in the same semester, you may have no choice.
+
+---
+
+What you will learn in CS 213:
+
+Deep Java OOP: interfaces, abstract classes, inheritance hierarchies, polymorphism
+Design patterns used in professional software development
+Git and version control in a team context
+UML diagramming and pre-planning code architecture
+Partner programming dynamics
+Partner programming is described as annoying at university but valuable for developing real-world collaboration skills.
+
+---
+
+On exam preparation for CS 213 under Sesh:
+
+Students report that even extensive studying does not reliably produce good exam results under the current version of the course. Understanding the concepts in class does not fully translate to exam performance. The gap between understanding material and performing on Sesh's exams is described as significant by multiple current students.

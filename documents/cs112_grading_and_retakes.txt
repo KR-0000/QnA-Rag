@@ -1,0 +1,45 @@
+Source: r/rutgers
+Topic: CS 112 grading requirements, failing, and retaking
+
+---
+
+CS 112 has a mandatory minimum exam score requirement: students must accumulate at least 270 out of 450 possible exam points to pass the class. This is roughly 60% on exams. If you do not meet this threshold, you fail the class regardless of your assignment grades.
+
+There is no curve in CS 112. The grading cutoffs are published on the CS 112 course website.
+
+A D is not a passing grade for Computer Science. To advance in the major, you need a C or better in CS 112.
+
+---
+
+On retaking CS 112 after failing:
+
+If you fail CS 112, you will receive an F on your transcript permanently. However, if you retake the class and earn a better grade, the F will no longer be factored into your GPA. The new grade replaces the old one in GPA calculations. This applies in SAS with a limit of approximately 3 grade replacements total. The F remains visible on the transcript even after replacement.
+
+Students who are freshmen and fail are encouraged to retake. The grade replacement policy makes recovery feasible.
+
+---
+
+On the exam structure and grade replacement within the course:
+
+CS 112 uses a grade replacement system within the course itself. If you do poorly on one exam, you can replace that grade with a better performance later (for example, doing well on Midterm 2 can replace a bad Midterm 1 score). This internal replacement has helped students recover from a poor start on one exam.
+
+Assignment averages in CS 112 tend to be very high (around 95%) because many students use AI tools to complete them. As a result, exams carry the real weight of the course.
+
+---
+
+Tips for passing CS 112:
+
+- Study problem sets extensively. Exam questions are often based directly on problem set questions or old practice exams.
+- Start projects early. The project descriptions can be confusing at first but become clearer after re-reading. Work on something every day rather than cramming.
+- Attend every lecture. Lecture content is more important than the textbook for exams.
+- Go to office hours or find a tutor if struggling. The CAVE tutoring center at Rutgers offers help.
+- Practice exams are available on GitHub (search: USMC1941 CS112-Rutgers Practice Exams).
+- Big O notation and runtime analysis are a major focus of exams. Make sure you understand this deeply.
+- Linked lists are a foundational topic that underpins much of the rest of the course. Struggling with linked lists early will compound into later topics.
+- A YouTube playlist of Rutgers Data Structures topics is available and mirrors the course content closely.
+
+---
+
+On the difficulty and reputation of CS 112:
+
+CS 112 is widely considered one of the harder required courses in the Rutgers CS major. It is a common point where students who struggle with CS decide to change majors or paths. However, with proper preparation it is very passable. Students who attend every class, do problem sets seriously, and start projects early generally do fine.
