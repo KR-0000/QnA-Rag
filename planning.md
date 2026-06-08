@@ -125,8 +125,8 @@ Top-k of 5 gives the LLM enough context to produce a complete answer while keepi
      "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
      with my specified chunk size and overlap" is a plan. -->
 
-**Milestone 3 — Ingestion and chunking:**
+**Milestone 3 — Ingestion and chunking:** I will give Claude the Documents and Chunking Strategy sections of this planning.md and ask it to implement ingest.py: a script that loads each .txt file from the documents directory, attaches the source filename as metadata, and splits documents using RecursiveCharacterTextSplitter with chunk_size=500 and chunk_overlap=100.
 
-**Milestone 4 — Embedding and retrieval:**
+**Milestone 4 — Embedding and retrieval:** I will give Claude the Retrieval Approach section and the Architecture diagram and ask it to implement retrieval.py: a module that embeds chunks with all-MiniLM-L6-v2, stores them in ChromaDB with source metadata, and exposes a retrieve() function that combines semantic search and BM25 using Reciprocal Rank Fusion.
 
-**Milestone 5 — Generation and interface:**
+**Milestone 5 — Generation and interface:** I will give Claude the grounding requirement and output format and ask it to implement generate.py (calls Groq with a context-only system prompt and appends source attribution) and app.py (Streamlit UI with a question input, answer display, and sources display).
