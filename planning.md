@@ -10,7 +10,7 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
-
+The domain is student-generated advice about the CS major at Rutgers University-New Brunswick. This includes course difficulty, professor reputations, study strategies, grading policies, and career advice specific to Rutgers CS courses. This knowledge is valuable because it represents real student experience that is not available through official Rutgers channels. The course catalog describes what a class covers but says nothing about which professor to take, how hard the exams actually are, what students wish they had known, or how to recover from failing a required course. Rate My Professors exists but is shallow and unstructured. The most useful advice lives in Reddit threads where students have extended discussions, share specific details, and correct each other. This RAG system makes that knowledge searchable and answerable in plain language.
 ---
 
 ## Documents
