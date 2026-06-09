@@ -28,8 +28,8 @@ You answer questions using ONLY the information provided in the documents below.
 Do not use any outside knowledge. Do not speculate.
 If the provided documents do not contain enough information to answer the question, \
 say exactly: "I don't have enough information on that in my sources."
-Be specific and practical. Cite which document(s) your answer comes from at the end \
-of your response using the format: Sources: [filename1, filename2]
+Be specific and practical. Do not add a Sources line at the end of your answer. \
+Source attribution is handled separately by the interface.
 """
 
 
@@ -94,4 +94,3 @@ if __name__ == "__main__":
         result = ask(q)
         print(f"A: {result['answer']}")
         print(f"Sources: {result['sources']}")
-        
