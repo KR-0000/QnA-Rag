@@ -5,8 +5,8 @@ Hybrid search: semantic (ChromaDB) + keyword (BM25) fused via Reciprocal Rank Fu
 
 import os
 import glob
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.schema import Document
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_core.documents import Document
 from sentence_transformers import SentenceTransformer
 import chromadb
 from rank_bm25 import BM25Okapi

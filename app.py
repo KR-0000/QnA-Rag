@@ -25,40 +25,51 @@ st.caption(
 
 st.divider()
 
-# Example questions sidebar
+if "result" not in st.session_state:
+    st.session_state["result"] = None
+
+# Trick: text_input reads from st.session_state["q"] directly when key="q"
+if "q" not in st.session_state:
+    st.session_state["q"] = ""
+
+examples = [
+    "What is the minimum score needed to pass CS 112?",
+    "Which professor should I take for CS 344 Algorithms?",
+    "How hard is systems programming?",
+    "What are the easiest CS electives?",
+    "Is Sesh a good professor for CS 213?",
+    "Which Discrete Math 2 professor is better, Hamidi or Cowan?",
+    "What courses are most useful for landing a software engineering job?",
+    "How should I prepare for CS 214 over the summer?",
+    "What happens if I fail CS 112?",
+    "Is CS 344 worth taking as a sophomore?",
+]
+
 with st.sidebar:
     st.header("Example questions")
-    examples = [
-        "What is the minimum score needed to pass CS 112?",
-        "Which professor should I take for CS 344 Algorithms?",
-        "How hard is systems programming?",
-        "What are the easiest CS electives?",
-        "Is Sesh a good professor for CS 213?",
-        "Which Discrete Math 2 professor is better, Hamidi or Cowan?",
-        "What courses are most useful for landing a software engineering job?",
-        "How should I prepare for CS 214 over the summer?",
-        "What happens if I fail CS 112?",
-        "Is CS 344 worth taking as a sophomore?",
-    ]
     for ex in examples:
         if st.button(ex, use_container_width=True):
-            st.session_state["prefill"] = ex
+            st.session_state["q"] = ex
+            st.session_state["result"] = None
+            st.rerun()
 
-# Main input
-prefill = st.session_state.pop("prefill", "")
+# key="q" means Streamlit binds this widget to st.session_state["q"]
+st.text_input(
+    "Your question",
+    placeholder="e.g. Who is the best professor for CS 344?",
+    key="q",
+)
 
-with st.form("query_form", clear_on_submit=False):
-    question = st.text_input(
-        "Your question",
-        value=prefill,
-        placeholder="e.g. Who is the best professor for CS 344?",
-    )
-    submitted = st.form_submit_button("Ask", use_container_width=True)
+if st.button("Ask", use_container_width=True):
+    q = st.session_state["q"].strip()
+    if q:
+        with st.spinner("Searching and generating answer..."):
+            st.session_state["result"] = ask(q)
+    else:
+        st.warning("Please enter a question.")
 
-if submitted and question.strip():
-    with st.spinner("Searching and generating answer..."):
-        result = ask(question.strip())
-
+result = st.session_state.get("result")
+if result:
     st.subheader("Answer")
     st.write(result["answer"])
 
@@ -68,10 +79,8 @@ if submitted and question.strip():
 
     with st.expander("Show retrieved chunks"):
         for i, chunk in enumerate(result["chunks"]):
-            st.markdown(f"**Chunk {i+1}** — `{chunk['source']}` (RRF score: {chunk['rrf_score']:.4f})")
+            st.markdown(
+                f"**Chunk {i+1}** — `{chunk['source']}` (RRF score: {chunk['rrf_score']:.4f})"
+            )
             st.text(chunk["text"])
             st.divider()
-
-elif submitted and not question.strip():
-    st.warning("Please enter a question.")
-    

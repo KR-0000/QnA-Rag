@@ -6,8 +6,8 @@ Run this once before starting the app: python ingest.py
 
 import os
 import glob
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.schema import Document
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_core.documents import Document
 from sentence_transformers import SentenceTransformer
 import chromadb
 
